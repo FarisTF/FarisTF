@@ -8,7 +8,7 @@
 I'm a Full-Stack Developer & AI Engineer passionate about turning complex problems into simple and elegant software—spanning frontend, backend, and artificial intellegence.
 
 ### 🤵 **About Me**
-- 💼 Currently working as a Junior Full Stack Developer at **ChompChat**
+- 💼 Currently working as a Junior Full Stack Developer at [**ChompChat**](https://chompchat.com/)
 - 🎓 Bachelor's in Information Systems & Technology @ITB (3.51/4.00)
 
 ---
