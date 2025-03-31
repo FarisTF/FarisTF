@@ -5,12 +5,11 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-faristf.tech-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.faristf.tech)
 [![Gmail](https://img.shields.io/badge/EMAIL-faris.tristan@gmail.com-2ecc71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faris.tristan@gmail.com)
 
-I'm a Full-Stack Developer & AI Engineer passionate about turning complex problems into simple and elegant software—spanning frontend, backend, and machine learning systems.
+I'm a Full-Stack Developer & AI Engineer passionate about turning complex problems into simple and elegant software—spanning frontend, backend, and artificial intellegence.
 
 ### **About Me**
 - 💼 Currently working as a Junior Full Stack Developer at **ChompChat**
 - 🎓 Bachelor's in Information Systems & Technology @ ITB (3.51/4.00)
-- 🧠 Interested in: AI-powered web apps, full-stack development
 
 ---
 
