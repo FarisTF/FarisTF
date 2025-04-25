@@ -41,6 +41,7 @@ I'm a Full-Stack Developer & AI Engineer passionate about turning complex proble
 ---
 
 ### 📊 **GitHub Stats**
-[![GitHub Streak](https://github-readme-streak-stats-six-ruby.vercel.app?user=FarisTF&theme=ocean-gradient&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-six-ruby.vercel.app?user=FarisTF&theme=ocean-gradient&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=465)](https://git.io/streak-stats)
 
-![FarisTF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarisTF&show_icons=true&theme=github_dark)
+![FarisTF's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarisTF&show_icons=true&theme=github_dark&cache_seconds=86400)
+
